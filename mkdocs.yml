@@ -1,0 +1,7 @@
+site_name: Lzz's Blog 
+use_directory_urls: true
+theme: readthedocs
+pages:
+    - 首页: 'index.md'
+    - 测试:
+      - 嘻嘻: 'make_blog.md'
